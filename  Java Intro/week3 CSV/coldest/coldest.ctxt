@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=coldest
+comment0.text=\n\ Write\ a\ description\ of\ coldest\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=coldestSoFar\ cur
+comment1.target=org.apache.commons.csv.CSVRecord\ coldestOfTwo(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord)
+comment10.params=
+comment10.target=java.lang.String\ lowestHumidityInManyFiles()
+comment2.params=parser
+comment2.target=org.apache.commons.csv.CSVRecord\ coldestHourInFile(org.apache.commons.csv.CSVParser)
+comment3.params=
+comment3.target=void\ testColdestHourInFile()
+comment4.params=
+comment4.target=java.lang.String\ fileWithColdestTemperature()
+comment5.params=parser\ minHum
+comment5.target=double\ averageTemperatureInFile(org.apache.commons.csv.CSVParser,\ int)
+comment6.params=
+comment6.target=void\ testAverageTemperatureInFile()
+comment7.params=lowestSoFar\ cur
+comment7.target=org.apache.commons.csv.CSVRecord\ lowestOfTwo(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord)
+comment8.params=parser
+comment8.target=org.apache.commons.csv.CSVRecord\ lowestHumidityInFile(org.apache.commons.csv.CSVParser)
+comment9.params=
+comment9.target=void\ testlowestHumidityInFile()
+numComments=11

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Duke JS Final Project</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <script
+  src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js">
+</script>
+
+<h1>Filter Fun</h1>
+
+<canvas id="can">
+</canvas>
+
+<h3>Load Image</h3>
+<input type="file" onchange="loadImage()" multiple="false" accept="image/*" id="fbutton" />
+<div id="dims">
+</div>
+
+<h2>Choose Filter</h2>
+
+
+<input type="button" id="rainbow"
+ value="rainbow" onclick="rainbow()"/>
+<input type="button" id="gray"
+ value="grayscale" onclick="gray()"/>
+ <input type="button" id="red"
+ value="red" onclick="red()"/>
+ <input type="button" id="blur"
+ value="blur" onclick="doblur()"/>
+
+<p>
+ <input type="button" id="reset"
+  value="reset image"
+  onclick="reset()" />
+  
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,71 @@
+Class documentation
+<---- javadoc command: ---->
+/Applications/BlueJ.app/Contents/JDK/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+/Applications/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ.app/Contents/Resources/Java/junit-4.11.jar:/Applications/BlueJ.app/Contents/Resources/Java/hamcrest-core-1.3.jar:/Applications/BlueJ.app/Contents/Resources/Java/lang-stride.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/courserajava.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/apache-csv.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-core.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-gpio-extension.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-service.jar:/Applications/BlueJ.app/Contents/Resources/Java/userlib/pi4j-device.jar:/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram
+-d
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java
+<---- end of javadoc command ---->
+Loading source file /Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java...
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:29: error: <identifier> expected
+            if (from.)
+                     ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:35: error: illegal start of expression
+    public void dumpCSV(ArrayList<QuakeEntry> list){
+    ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:35: error: illegal start of expression
+    public void dumpCSV(ArrayList<QuakeEntry> list){
+           ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:35: error: ';' expected
+    public void dumpCSV(ArrayList<QuakeEntry> list){
+                       ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:35: error: ';' expected
+    public void dumpCSV(ArrayList<QuakeEntry> list){
+                                                  ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:47: error: illegal start of expression
+    public void bigQuakes() {
+    ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:47: error: illegal start of expression
+    public void bigQuakes() {
+           ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:47: error: ';' expected
+    public void bigQuakes() {
+                         ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:60: error: illegal start of expression
+    public void closeToMe(){
+    ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:60: error: illegal start of expression
+    public void closeToMe(){
+           ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:60: error: ';' expected
+    public void closeToMe(){
+                         ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:75: error: illegal start of expression
+    public void createCSV(){
+    ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:75: error: illegal start of expression
+    public void createCSV(){
+           ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:75: error: ';' expected
+    public void createCSV(){
+                         ^
+/Users/chenjipeng/Documents/course/cousera/(Duke)Java Programming and Software Engineering Fundamentals/Principles of Software Design/week1/SearchingEarthquakeDataStarterProgram/EarthQuakeClient.java:87: error: reached end of file while parsing
+}
+ ^
+15 errors
